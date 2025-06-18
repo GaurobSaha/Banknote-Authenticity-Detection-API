@@ -42,3 +42,4 @@ Send a JSON payload containing the following fields:
 uvicorn app:app --reload
 
 "# Banknote-Authenticity-Detection-API" 
+"# Banknote-Authenticity-Detection-API" 
